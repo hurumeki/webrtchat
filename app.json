@@ -1,0 +1,6 @@
+{
+  "name": "WebRTChat",
+  "description": "Voice and Text chat application on PeerJS",
+  "repository": "https://github.com/hurumeki/webrtchat",
+  "keywords": ["node", "express", "static", "peerjs"]
+}
